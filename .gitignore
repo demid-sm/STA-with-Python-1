@@ -1,2 +1,6 @@
 env/
 *.pyc
+*venv*
+.tool-versions
+.ipynb_checkpoints
+*cache*
